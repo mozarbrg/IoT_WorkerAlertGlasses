@@ -1,3 +1,4 @@
+// coloque as portas que utilizou no seu esp 32:
 const int irSensor = 2;
 const int buzzer = 25;
 const int vibra = 4;
